@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Projects Android/Fragmentos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects Android/ListView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects Android/Listapersonalizada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects Android/loginbasic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects Android/loginkotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects Android/random" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerKotlin-1.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WebView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup 2/project-to-do" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup_todo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project-to-do/project-to-do" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/setptimon price/Android/app_suma" vcs="Git" />
+  </component>
+</project>
